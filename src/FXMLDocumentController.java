@@ -1,15 +1,5 @@
 /* 
  * File:   main.java
- * Author: a.skiadopoulos
- *
- * Created on 08 Μαρτίου 2018, 16:54 μμ
- *
- *
- * JavaFX app: getPercentage
- * JavaFX scene graph: Scene Builder
- *
- * This is a simple program that calculates the net percentage of a
- * given number plus the total number (net percentage + initial number).
  */
 
 /* library import */
