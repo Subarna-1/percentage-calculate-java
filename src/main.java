@@ -1,14 +1,5 @@
 /* 
  * File:   main.java
- * Author: a.skiadopoulos
- *
- * Created on 08 Μαρτίου 2018, 16:54 μμ
- *
- * JavaFX app: getPercentage
- * JavaFX scene graph: Scene Builder
- *
- * This is the Layout container and can be used to allow for flexible and dynamic
- * arrangements of the UI controls within a scene graph of a JavaFX application.
  */
 
 /* library import */
